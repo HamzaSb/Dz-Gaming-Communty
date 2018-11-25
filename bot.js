@@ -27,7 +27,6 @@ client.user.setGame(`Dz Gaming Communty|shop|teams|Giveaway|`,"http://twitch.tv/
   console.log('')
   console.log('')
 });
-
 const Discord = require('discord.js');
 const client = new Discord.Client();
  
